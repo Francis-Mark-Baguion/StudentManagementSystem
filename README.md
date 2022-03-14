@@ -1,4 +1,4 @@
 # StudentManagementSystem
-A student management system using Spring Boot
-and also a test in using git and github
+A student management system using Spring Boot.
+And also a test in using git and github.
 
