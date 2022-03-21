@@ -9,7 +9,6 @@ import com.fmbags.sms.service.StudentService;
 import com.fmbags.sms.service.impl.StudentServiceImpl;
 
 @Controller
-
 public class StudentController {
 
 	private StudentServiceImpl studentService;
